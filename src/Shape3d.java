@@ -5,7 +5,7 @@ public class Shape3d extends Shape {
     }
 
     @Override
-    public double Area(double A) {
+    public double GetArea() {
         return 0;
     }
 }
